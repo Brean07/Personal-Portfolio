@@ -42,3 +42,9 @@ nav{
     align-items: center;
     gap: 3rem;
 }
+
+.link a{
+    position: relative;
+    padding-bottom: 0.75rem;
+    color: #fff;
+}
